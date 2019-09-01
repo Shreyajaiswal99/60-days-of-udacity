@@ -23,7 +23,7 @@
 
 ✅ Clear the concept of Neural Networks. 
 
-✅ (Medium Link)[medium.com/machinevision/overview-of-neural-networks-b86ce02ea3d1]
+✅ [Medium Link](medium.com/machinevision/overview-of-neural-networks-b86ce02ea3d1)
 
 ## Day 3    (3-July-2019)
 
@@ -45,7 +45,7 @@
 
 ✅ Join the study group #sg_novice_ai , #sg_wonder_vision, #sg_deepdive-nlp.
 
-✅ Learn the term Gradient Descent (Youtube Link)[https://www.youtube.com/watch?v=sDv4f4s2SB8]
+✅ Learn the term Gradient Descent [Youtube Link](https://www.youtube.com/watch?v=sDv4f4s2SB8)
     
 
 ## Day 6    (6-July-2019)
@@ -70,7 +70,7 @@
 
 ## Day 9     (9-July-2019)
 
-✅ Watch the (Talking Pytorch with Southmith Chintala) (youtube link)[https://www.youtube.com/watch?v=s8p6vqOubqw]
+✅ Watch the (Talking Pytorch with Southmith Chintala) [youtube link](https://www.youtube.com/watch?v=s8p6vqOubqw)
 
 ✅ Motivate some scholars by motivational Quote.
 
@@ -109,7 +109,7 @@
 
 ## Day 15    (16-July-2019)
 
-✅ (youtube link)[https://www.youtube.com/watch?v=o7zzaKd0Lkk]
+✅ [youtube link](https://www.youtube.com/watch?v=o7zzaKd0Lkk)
 
 
 ## Day 16   (17-July-2019)
@@ -136,7 +136,7 @@
 
 ## Day 19   (20-July-2019)
 
-✅ (medium link)[https://medium.com/@phidaouss/convolutional-neural-networks-cnn-or-convnets-d7c688b0a20]
+✅ [medium link](https://medium.com/@phidaouss/convolutional-neural-networks-cnn-or-convnets-d7c688b0a20)
 
 ✅ Encourage some scholars.
 
@@ -174,21 +174,21 @@
 
 ## Day 25   (27-July-2019)
 
-✅ (My first blog on Medium)[https://link.medium.com/s5nKCmEByZ]
+✅ [My first blog on Medium](https://link.medium.com/s5nKCmEByZ)
 
 ✅ Revise fashion Mnist Classification Problem.
 
 ## Day 26    (28-July-2019)
 
-✅ (youtube link)[https://www.youtube.com/watch?v=wTbrk0suwbg&t=10s]
+✅ [youtube link](https://www.youtube.com/watch?v=wTbrk0suwbg&t=10s)
 
 ✅  Encourage some scholars.
 
 ## Day 27   (29-July-2019)
 
-✅ (youtube link)[https://www.youtube.com/watch?v=i04Pfrb71vk] clear the concept of differnces between classifiaction and regression problem.
+✅ [youtube link](https://www.youtube.com/watch?v=i04Pfrb71vk) clear the concept of differnces between classifiaction and regression problem.
 
-✅ Motivate the scolars by (youtube link)[https://www.youtube.com/watch?v=lXUQ-DdSDoE]
+✅ Motivate the scolars by [youtube link](https://www.youtube.com/watch?v=lXUQ-DdSDoE)
 
 ## Day 28   (30-July-2019)
 
@@ -200,7 +200,7 @@
 
 ✅ Learn the difference between Supervised and unsupervised learning.
 
-✅ (youtube link)[https://www.youtube.com/watch?v=cfj6yaYE86U&t=71s]
+✅ [youtube link](https://www.youtube.com/watch?v=cfj6yaYE86U&t=71s)
 
 ## Day 30    (2-August-2019)
 
@@ -236,7 +236,7 @@
 
 ✅ Completed lesson 6 successfully.
 
-✅ (youtube link)[https://www.youtube.com/watch?v=gPuq996aPVs]
+✅ [youtube link](https://www.youtube.com/watch?v=gPuq996aPVs)
 
 
 ## Day 36   (8-August-2019)
@@ -292,7 +292,7 @@
 
 ## Day 45     (17-August-2019)
 
-✅ (youtube link)[https://www.youtube.com/watch?v=BO4g2DRvL6U]
+✅ [youtube link](https://www.youtube.com/watch?v=BO4g2DRvL6U)
 
 ## Day 46    (19-August-2019)
 
@@ -302,12 +302,12 @@
 
 
 ## Day 47   (20-August-2019)
-✅ (github link)[https://github.com/aksht94/UdacityOpenSource/tree/master/Personality_detection_from_text_using_nlp] finally successfully submit these project with 55% of accuraccy.
+✅ [github link](https://github.com/aksht94/UdacityOpenSource/tree/master/Personality_detection_from_text_using_nlp) finally successfully submit these project with 55% of accuraccy.
 
 
 ## Day 48    (21-August-2019)
 
-✅ (youtube link)[https://www.youtube.com/watch?v=3Pzni2yfGUQ]
+✅ [youtube link](https://www.youtube.com/watch?v=3Pzni2yfGUQ)
 
 ✅ Encourage some scholars.
  
