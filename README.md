@@ -30,7 +30,7 @@
 ✅ Learn the concept of Error functions and difference between the different types of 
     error functions.
     
-✅ (Youtube Link)[https://www.youtube.com/watch?v=MztgenIfGgM&t=1s]
+✅ [Youtube Link](https://www.youtube.com/watch?v=MztgenIfGgM&t=1s)
 
 
 ## Day 4    (4-July-2019)
